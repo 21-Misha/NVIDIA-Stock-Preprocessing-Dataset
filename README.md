@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini merupakan tugas mata kuliah Data Mining yang berfokus pada tahap *data preprocessing* menggunakan Python. Dataset yang digunakan berisi data historis harga saham NVIDIA pada periode 2014–2024.
+Proyek ini merupakan proyek yang berfokus pada tahap *data preprocessing* menggunakan Python. Dataset yang digunakan berisi data historis harga saham NVIDIA pada periode 2014–2024.
 
 Preprocessing dilakukan untuk memeriksa kualitas data, memastikan konsistensi format dan nilai, serta mengidentifikasi pencilan (*outlier*) sebelum dataset digunakan untuk analisis lebih lanjut.
 
