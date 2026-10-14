@@ -139,6 +139,5 @@ Hasil preprocessing dapat digunakan sebagai dasar untuk analisis data lebih lanj
 
 ---
 
-**Mata Kuliah:** Data Mining
 **Bahasa Pemrograman:** Python
 **Platform:** Google Colab
